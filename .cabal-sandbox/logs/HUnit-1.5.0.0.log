@@ -1,0 +1,33 @@
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc.exe" "--abi-hash" "-fbuilding-cabal-package" "-O" "-outputdir" "dist/dist-sandbox-bef4fbc5\build" "-odir" "dist/dist-sandbox-bef4fbc5\build" "-hidir" "dist/dist-sandbox-bef4fbc5\build" "-stubdir" "dist/dist-sandbox-bef4fbc5\build" "-i" "-idist/dist-sandbox-bef4fbc5\build" "-isrc" "-idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build" "-IC:\Program Files\Haskell Platform\8.0.2\mingw\include" "-optP-include" "-optPdist/dist-sandbox-bef4fbc5\build\autogen\cabal_macros.h" "-this-unit-id" "HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI" "-hide-all-packages" "-no-user-package-db" "-package-db" "C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "-package-id" "base-4.9.1.0" "-package-id" "call-stack-0.1.0-FYVrCPXGP9EGAuTW32963O" "-package-id" "deepseq-1.4.2.0" "-XHaskell2010" "Test.HUnit.Base" "Test.HUnit.Lang" "Test.HUnit.Terminal" "Test.HUnit.Text" "Test.HUnit" "-Wall"
+Registering HUnit-1.5.0.0...
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d"
+OHhCC7SzfeEty4OI\Test
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI
+Installing dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Base.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\Test\HUnit\Base.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Lang.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\Test\HUnit\Lang.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Terminal.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\Test\HUnit\Terminal.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Text.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\Test\HUnit\Text.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\HUnit.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\Test\HUnit.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Paths_HUnit.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\Paths_HUnit.hi
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI
+Installing
+dist/dist-sandbox-bef4fbc5\build\libHSHUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI.a
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\libHSHUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI.a
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI
+Installing
+dist/dist-sandbox-bef4fbc5\build\HSHUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI.o to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI\HSHUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI.o
+.a
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ld.exe" "-x" "-r" "-o" "dist/dist-sandbox-bef4fbc5\build\HSHUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI.o" "dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Base.o" "dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Lang.o" "dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Terminal.o" "dist/dist-sandbox-bef4fbc5\build\Test\HUnit\Text.o" "dist/dist-sandbox-bef4fbc5\build\Test\HUnit.o" "dist/dist-sandbox-bef4fbc5\build\Paths_HUnit.o"
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "--package-db=dist/dist-sandbox-bef4fbc5\package.conf.inplace"
+cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-7741\HUnit-1.5.0.0'

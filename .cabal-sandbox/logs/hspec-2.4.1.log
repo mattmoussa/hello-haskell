@@ -1,0 +1,46 @@
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc.exe" "--abi-hash" "-fbuilding-cabal-package" "-O" "-outputdir" "dist/dist-sandbox-bef4fbc5\build" "-odir" "dist/dist-sandbox-bef4fbc5\build" "-hidir" "dist/dist-sandbox-bef4fbc5\build" "-stubdir" "dist/dist-sandbox-bef4fbc5\build" "-i" "-idist/dist-sandbox-bef4fbc5\build" "-isrc" "-idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build" "-IC:\Program Files\Haskell Platform\8.0.2\mingw\include" "-optP-include" "-optPdist/dist-sandbox-bef4fbc5\build\autogen\cabal_macros.h" "-this-unit-id" "hspec-2.4.1-KS6hBO048xi4phi6pyknZy" "-hide-all-packages" "-no-user-package-db" "-package-db" "C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "-package-id" "HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI" "-package-id" "QuickCheck-2.9.2-8nJqNls0Q836oDXpGGg3LD" "-package-id" "base-4.9.1.0" "-package-id" "call-stack-0.1.0-FYVrCPXGP9EGAuTW32963O" "-package-id" "hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd" "-package-id" "hspec-discover-2.4.1-DR9FoC7k9LOJryAcnoBq58" "-package-id" "hspec-expectations-0.8.2-DujBeQFEMmfJJRLad7XQgd" "-package-id" "transformers-0.5.2.0" "-XHaskell2010" "Test.Hspec" "Test.Hspec.Core" "Test.Hspec.Discover" "Test.Hspec.Formatters" "Test.Hspec.HUnit" "Test.Hspec.QuickCheck" "Test.Hspec.Runner" "-Wall"
+Registering hspec-2.4.1...
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d"
+rs\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\Test\Hspec\Discover.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Formatters.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\Test\Hspec\Formatters.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\HUnit.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\Test\Hspec\HUnit.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\QuickCheck.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\Test\Hspec\QuickCheck.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Runner.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\Test\Hspec\Runner.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Paths_hspec.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\Paths_hspec.hi
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy
+Installing
+dist/dist-sandbox-bef4fbc5\build\libHShspec-2.4.1-KS6hBO048xi4phi6pyknZy.a to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\libHShspec-2.4.1-KS6hBO048xi4phi6pyknZy.a
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy
+Installing
+dist/dist-sandbox-bef4fbc5\build\HShspec-2.4.1-KS6hBO048xi4phi6pyknZy.o to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-2.4.1-KS6hBO048xi4phi6pyknZy\HShspec-2.4.1-KS6hBO048xi4phi6pyknZy.o
+ageName {unPackageName = "call-stack"}, pkgVersion = Version
+{versionBranch = [0,1,0], versionTags = []}},ModuleRenaming True
+[]),(SimpleUnitId (ComponentId
+"hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd"),PackageIdentifier {pkgName =
+PackageName {unPackageName = "hspec-core"}, pkgVersion = Version
+{versionBranch = [2,4,1], versionTags = []}},ModuleRenaming True
+[]),(SimpleUnitId (ComponentId
+"hspec-discover-2.4.1-DR9FoC7k9LOJryAcnoBq58"),PackageIdentifier {pkgName =
+PackageName {unPackageName = "hspec-discover"}, pkgVersion = Version
+{versionBranch = [2,4,1], versionTags = []}},ModuleRenaming True
+[]),(SimpleUnitId (ComponentId
+"hspec-expectations-0.8.2-DujBeQFEMmfJJRLad7XQgd"),PackageIdentifier {pkgName
+= PackageName {unPackageName = "hspec-expectations"}, pkgVersion = Version
+{versionBranch = [0,8,2], versionTags = []}},ModuleRenaming True
+[]),(SimpleUnitId (ComponentId "transformers-0.5.2.0"),PackageIdentifier
+{pkgName = PackageName {unPackageName = "transformers"}, pkgVersion = Version
+{versionBranch = [0,5,2,0], versionTags = []}},ModuleRenaming True [])]
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ar.exe" "-r" "dist/dist-sandbox-bef4fbc5\build\objs-5308\libHShspec-2.4.1-KS6hBO048xi4phi6pyknZy.a" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Discover.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Formatters.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\HUnit.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\QuickCheck.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Runner.o" "dist/dist-sandbox-bef4fbc5\build\Paths_hspec.o"
+C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ar.exe: creating dist/dist-sandbox-bef4fbc5\build\objs-5308\libHShspec-2.4.1-KS6hBO048xi4phi6pyknZy.a
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ld.exe" "-x" "-r" "-o" "dist/dist-sandbox-bef4fbc5\build\HShspec-2.4.1-KS6hBO048xi4phi6pyknZy.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Discover.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Formatters.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\HUnit.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\QuickCheck.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Runner.o" "dist/dist-sandbox-bef4fbc5\build\Paths_hspec.o"
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "--package-db=dist/dist-sandbox-bef4fbc5\package.conf.inplace"
+cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-7740\hspec-2.4.1'

@@ -1,4 +1,4 @@
-# Revision history for hello-haskell
+# Revision history for Haq
 
 ## 0.1.0.0  -- YYYY-mm-dd
 

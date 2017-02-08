@@ -1,8 +1,0 @@
-Registering clock-0.7.2...
-ers\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\clock-0.7.2-6ZjQ4liQAtMEQ8sxJKD0xY
--sandbox-bef4fbc5\build\System\Clock_hsc_make.c:1:0:
-C:\Program Files\Haskell Platform\8.0.2/lib/template-hsc.h:88:0: note: this is the location of the previous definition
- #define hsc_alignment(t...) \
- ^
-[1 of 1] Compiling System.Clock     ( dist\dist-sandbox-bef4fbc5\build\System\Clock.hs, dist\dist-sandbox-bef4fbc5\build\System\Clock.o )
-cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-3468\clock-0.7.2'

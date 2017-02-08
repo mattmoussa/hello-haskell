@@ -1,0 +1,27 @@
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc.exe" "--abi-hash" "-fbuilding-cabal-package" "-O" "-outputdir" "dist/dist-sandbox-bef4fbc5\build" "-odir" "dist/dist-sandbox-bef4fbc5\build" "-hidir" "dist/dist-sandbox-bef4fbc5\build" "-stubdir" "dist/dist-sandbox-bef4fbc5\build" "-i" "-idist/dist-sandbox-bef4fbc5\build" "-isrc" "-idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build" "-IC:\Program Files\Haskell Platform\8.0.2\mingw\include" "-optP-include" "-optPdist/dist-sandbox-bef4fbc5\build\autogen\cabal_macros.h" "-this-unit-id" "setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A" "-hide-all-packages" "-no-user-package-db" "-package-db" "C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "-package-id" "base-4.9.1.0" "-XHaskell98" "System.SetEnv" "-Wall"
+Registering setenv-0.1.1.3...
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d"
+ing dist/dist-sandbox-bef4fbc5\build\System\SetEnv.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A\System\SetEnv.hi
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A
+Installing
+dist/dist-sandbox-bef4fbc5\build\libHSsetenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A.a
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A\libHSsetenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A.a
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A
+Installing
+dist/dist-sandbox-bef4fbc5\build\HSsetenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A.o to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A\HSsetenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A.o
+.1.1.3-7zMwpxt4EEAPEd1ZS7C4A.o" "dist/dist-sandbox-bef4fbc5\build\System\SetEnv.o"
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "--package-db=dist/dist-sandbox-bef4fbc5\package.conf.inplace"
+n\ld.exe
+No lhc found
+No lhc-pkg found
+No pkg-config found
+Using strip version 2.25 found on system at: C:\Program Files\Haskell
+Platform\8.0.2\mingw\bin\strip.exe
+No tar found
+No uhc found
+cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-7745\setenv-0.1.1.3'

@@ -1,0 +1,95 @@
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc.exe" "--abi-hash" "-fbuilding-cabal-package" "-O" "-outputdir" "dist/dist-sandbox-bef4fbc5\build" "-odir" "dist/dist-sandbox-bef4fbc5\build" "-hidir" "dist/dist-sandbox-bef4fbc5\build" "-stubdir" "dist/dist-sandbox-bef4fbc5\build" "-i" "-idist/dist-sandbox-bef4fbc5\build" "-isrc" "-ivendor" "-idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build" "-IC:\Program Files\Haskell Platform\8.0.2\mingw\include" "-optP-include" "-optPdist/dist-sandbox-bef4fbc5\build\autogen\cabal_macros.h" "-this-unit-id" "hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd" "-hide-all-packages" "-no-user-package-db" "-package-db" "C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "-package-id" "HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI" "-package-id" "QuickCheck-2.9.2-8nJqNls0Q836oDXpGGg3LD" "-package-id" "ansi-terminal-0.6.2.3-1qothsdhyDvGu4xWAKBhAS" "-package-id" "array-0.5.1.1" "-package-id" "async-2.1.1-4n6HEMPJR2eJK0JpvCfuPK" "-package-id" "base-4.9.1.0" "-package-id" "call-stack-0.1.0-FYVrCPXGP9EGAuTW32963O" "-package-id" "deepseq-1.4.2.0" "-package-id" "directory-1.3.0.0" "-package-id" "filepath-1.4.1.1" "-package-id" "hspec-expectations-0.8.2-DujBeQFEMmfJJRLad7XQgd" "-package-id" "quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy" "-package-id" "random-1.1-9tceXaeYIMZ4JrKq20Egog" "-package-id" "setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A" "-package-id" "tf-random-0.5-CJZw1ZWS5MOJlR60HqKEZL" "-package-id" "time-1.6.0.1" "-package-id" "transformers-0.5.2.0" "-XHaskell2010" "Test.Hspec.Core.Spec" "Test.Hspec.Core.Hooks" "Test.Hspec.Core.Runner" "Test.Hspec.Core.Formatters" "Test.Hspec.Core.QuickCheck" "Test.Hspec.Core.Util" "-Wall"
+Registering hspec-core-2.4.1...
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d"
+orf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Data\Algorithm
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Data
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Data\Algorithm
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Spec.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Spec.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Hooks.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Hooks.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Runner.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Runner.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Formatters.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\QuickCheck.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\QuickCheck.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Util.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Util.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Compat.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Compat.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Config.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Config.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Example.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Example.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\FailureReport.hi
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\FailureReport.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Diff.hi
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Formatters\Diff.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Free.hi
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Formatters\Free.hi
+Installing
+dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Internal.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Formatters\Internal.hi
+Installing
+dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Monad.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Formatters\Monad.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Options.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Options.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\QuickCheckUtil.hi
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\QuickCheckUtil.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Runner\Eval.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Runner\Eval.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Spec\Monad.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Spec\Monad.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Timer.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Timer.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Tree.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Test\Hspec\Core\Tree.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Algorithm\Diff.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Data\Algorithm\Diff.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Paths_hspec_core.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\Paths_hspec_core.hi
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd
+Installing
+dist/dist-sandbox-bef4fbc5\build\libHShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.a
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\libHShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.a
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd
+Installing
+dist/dist-sandbox-bef4fbc5\build\HShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.o
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\hspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd\HShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.o
+ckageName = "quickcheck-io"}, pkgVersion = Version
+{versionBranch = [0,1,4], versionTags = []}},ModuleRenaming True
+[]),(SimpleUnitId (ComponentId
+"random-1.1-9tceXaeYIMZ4JrKq20Egog"),PackageIdentifier {pkgName = PackageName
+{unPackageName = "random"}, pkgVersion = Version {versionBranch = [1,1],
+versionTags = []}},ModuleRenaming True []),(SimpleUnitId (ComponentId
+"setenv-0.1.1.3-7zMwpxt4EEAPEd1ZS7C4A"),PackageIdentifier {pkgName =
+PackageName {unPackageName = "setenv"}, pkgVersion = Version {versionBranch =
+[0,1,1,3], versionTags = []}},ModuleRenaming True []),(SimpleUnitId
+(ComponentId "tf-random-0.5-CJZw1ZWS5MOJlR60HqKEZL"),PackageIdentifier
+{pkgName = PackageName {unPackageName = "tf-random"}, pkgVersion = Version
+{versionBranch = [0,5], versionTags = []}},ModuleRenaming True
+[]),(SimpleUnitId (ComponentId "time-1.6.0.1"),PackageIdentifier {pkgName =
+PackageName {unPackageName = "time"}, pkgVersion = Version {versionBranch =
+[1,6,0,1], versionTags = []}},ModuleRenaming True []),(SimpleUnitId
+(ComponentId "transformers-0.5.2.0"),PackageIdentifier {pkgName = PackageName
+{unPackageName = "transformers"}, pkgVersion = Version {versionBranch =
+[0,5,2,0], versionTags = []}},ModuleRenaming True [])]
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ar.exe" "-r" "dist/dist-sandbox-bef4fbc5\build\objs-7800\libHShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.a" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Spec.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Hooks.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Runner.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\QuickCheck.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Util.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Compat.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Config.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Example.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\FailureReport.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Diff.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Free.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Internal.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Monad.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Options.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\QuickCheckUtil.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Runner\Eval.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Spec\Monad.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Timer.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Tree.o" "dist/dist-sandbox-bef4fbc5\build\Data\Algorithm\Diff.o" "dist/dist-sandbox-bef4fbc5\build\Paths_hspec_core.o"
+C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ar.exe: creating dist/dist-sandbox-bef4fbc5\build\objs-7800\libHShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.a
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ld.exe" "-x" "-r" "-o" "dist/dist-sandbox-bef4fbc5\build\HShspec-core-2.4.1-J6zPVshBU8qHudUXySRbnd.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Spec.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Hooks.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Runner.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\QuickCheck.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Util.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Compat.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Config.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Example.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\FailureReport.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Diff.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Free.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Internal.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Formatters\Monad.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Options.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\QuickCheckUtil.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Runner\Eval.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Spec\Monad.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Timer.o" "dist/dist-sandbox-bef4fbc5\build\Test\Hspec\Core\Tree.o" "dist/dist-sandbox-bef4fbc5\build\Data\Algorithm\Diff.o" "dist/dist-sandbox-bef4fbc5\build\Paths_hspec_core.o"
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "--package-db=dist/dist-sandbox-bef4fbc5\package.conf.inplace"
+cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-7740\hspec-core-2.4.1'

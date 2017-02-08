@@ -1,0 +1,22 @@
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc.exe" "--abi-hash" "-fbuilding-cabal-package" "-O" "-outputdir" "dist/dist-sandbox-bef4fbc5\build" "-odir" "dist/dist-sandbox-bef4fbc5\build" "-hidir" "dist/dist-sandbox-bef4fbc5\build" "-stubdir" "dist/dist-sandbox-bef4fbc5\build" "-i" "-idist/dist-sandbox-bef4fbc5\build" "-isrc" "-idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build" "-IC:\Program Files\Haskell Platform\8.0.2\mingw\include" "-optP-include" "-optPdist/dist-sandbox-bef4fbc5\build\autogen\cabal_macros.h" "-this-unit-id" "quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy" "-hide-all-packages" "-no-user-package-db" "-package-db" "C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "-package-id" "HUnit-1.5.0.0-DvjF79OHhCC7SzfeEty4OI" "-package-id" "QuickCheck-2.9.2-8nJqNls0Q836oDXpGGg3LD" "-package-id" "base-4.9.1.0" "-XHaskell2010" "Test.QuickCheck.IO" "-Wall"
+Registering quickcheck-io-0.1.4...
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d"
+dist-sandbox-bef4fbc5\build\Test\QuickCheck\IO.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy\Test\QuickCheck\IO.hi
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy
+Installing
+dist/dist-sandbox-bef4fbc5\build\libHSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.a
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy\libHSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.a
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy
+Installing
+dist/dist-sandbox-bef4fbc5\build\HSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.o
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\quickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy\HSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.o
+\ar.exe" "-r" "dist/dist-sandbox-bef4fbc5\build\objs-1908\libHSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.a" "dist/dist-sandbox-bef4fbc5\build\Test\QuickCheck\IO.o"
+C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ar.exe: creating dist/dist-sandbox-bef4fbc5\build\objs-1908\libHSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.a
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ld.exe" "-x" "-r" "-o" "dist/dist-sandbox-bef4fbc5\build\HSquickcheck-io-0.1.4-FW7V3AGgZy0DHOHngag0zy.o" "dist/dist-sandbox-bef4fbc5\build\Test\QuickCheck\IO.o"
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "--package-db=dist/dist-sandbox-bef4fbc5\package.conf.inplace"
+cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-7740\quickcheck-io-0.1.4'

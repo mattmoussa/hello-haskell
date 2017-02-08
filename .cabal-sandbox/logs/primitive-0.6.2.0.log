@@ -1,0 +1,53 @@
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc.exe" "--abi-hash" "-fbuilding-cabal-package" "-O" "-outputdir" "dist/dist-sandbox-bef4fbc5\build" "-odir" "dist/dist-sandbox-bef4fbc5\build" "-hidir" "dist/dist-sandbox-bef4fbc5\build" "-stubdir" "dist/dist-sandbox-bef4fbc5\build" "-i" "-idist/dist-sandbox-bef4fbc5\build" "-i." "-idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build\autogen" "-Idist/dist-sandbox-bef4fbc5\build" "-Icbits" "-IC:\Program Files\Haskell Platform\8.0.2\mingw\include" "-optP-include" "-optPdist/dist-sandbox-bef4fbc5\build\autogen\cabal_macros.h" "-this-unit-id" "primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh" "-hide-all-packages" "-no-user-package-db" "-package-db" "C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "-package-id" "base-4.9.1.0" "-package-id" "ghc-prim-0.5.0.0" "-package-id" "transformers-0.5.2.0" "-XHaskell2010" "Control.Monad.Primitive" "Data.Primitive" "Data.Primitive.MachDeps" "Data.Primitive.Types" "Data.Primitive.Array" "Data.Primitive.ByteArray" "Data.Primitive.SmallArray" "Data.Primitive.UnliftedArray" "Data.Primitive.Addr" "Data.Primitive.MutVar" "-O2" "-Wall"
+Registering primitive-0.6.2.0...
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d"
+f\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Control\Monad
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\Internal
+Installing dist/dist-sandbox-bef4fbc5\build\Control\Monad\Primitive.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Control\Monad\Primitive.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\MachDeps.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\MachDeps.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Types.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\Types.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Array.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\Array.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\ByteArray.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\ByteArray.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\SmallArray.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\SmallArray.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\UnliftedArray.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\UnliftedArray.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Addr.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\Addr.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\MutVar.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\MutVar.hi
+Installing dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Internal\Compat.hi
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\Internal\Compat.hi
+Installing
+dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Internal\Operations.hi to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\Data\Primitive\Internal\Operations.hi
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh
+Installing
+dist/dist-sandbox-bef4fbc5\build\libHSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.a
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\libHSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.a
+creating
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh
+Installing
+dist/dist-sandbox-bef4fbc5\build\HSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.o
+to
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2\primitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh\HSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.o
+ogram Files\Haskell Platform\8.0.2\mingw\bin\ar.exe" "-r" "dist/dist-sandbox-bef4fbc5\build\objs-4964\libHSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.a" "dist/dist-sandbox-bef4fbc5\build\Control\Monad\Primitive.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\MachDeps.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Types.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Array.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\ByteArray.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\SmallArray.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\UnliftedArray.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Addr.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\MutVar.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Internal\Compat.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Internal\Operations.o" "dist/dist-sandbox-bef4fbc5\build\cbits/primitive-memops.o"
+C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ar.exe: creating dist/dist-sandbox-bef4fbc5\build\objs-4964\libHSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.a
+"C:\Program Files\Haskell Platform\8.0.2\mingw\bin\ld.exe" "-x" "-r" "-o" "dist/dist-sandbox-bef4fbc5\build\HSprimitive-0.6.2.0-4578caNkWQ54Gt1mxLF2Yh.o" "dist/dist-sandbox-bef4fbc5\build\Control\Monad\Primitive.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\MachDeps.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Types.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Array.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\ByteArray.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\SmallArray.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\UnliftedArray.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Addr.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\MutVar.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Internal\Compat.o" "dist/dist-sandbox-bef4fbc5\build\Data\Primitive\Internal\Operations.o" "dist/dist-sandbox-bef4fbc5\build\cbits/primitive-memops.o"
+"C:\Program Files\Haskell Platform\8.0.2\bin\ghc-pkg.exe" "update" "-" "--global" "--no-user-package-db" "--package-db=C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\x86_64-windows-ghc-8.0.2-packages.conf.d" "--package-db=dist/dist-sandbox-bef4fbc5\package.conf.inplace"
+cabal: Leaving directory 'C:\Users\Matt\AppData\Local\Temp\cabal-tmp-7743\primitive-0.6.2.0'
