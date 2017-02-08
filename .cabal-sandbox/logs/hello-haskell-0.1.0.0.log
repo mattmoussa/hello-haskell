@@ -1,0 +1,6 @@
+Installing executable(s) in
+C:\Users\Matt\Desktop\Stuff\porf\hello-haskell\.cabal-sandbox\bin
+1.0.0...
+[1 of 1] Compiling Main             ( src\hello-haskell.hs, dist\dist-sandbox-bef4fbc5\build\hello-haskell\hello-haskell-tmp\Main.o )
+Linking dist/dist-sandbox-bef4fbc5\build\hello-haskell\hello-haskell.exe ...
+cabal: Leaving directory '.'
