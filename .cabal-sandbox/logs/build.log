@@ -18,3 +18,206 @@ dependencies: base-4.9.1.0
 install-outcome: InstallOk
 docs-outcome: NotTried
 tests-outcome: NotTried
+
+package: ansi-terminal-0.6.2.3
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: -example
+dependencies: Win32-2.3.1.1 base-4.9.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: clock-0.7.2
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: -llvm
+dependencies: base-4.9.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: cmdargs-0.10.14
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: -testprog quotation
+dependencies: base-4.9.1.0 filepath-1.4.1.1 process-1.4.3.0
+              template-haskell-2.11.1.0 transformers-0.5.2.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: cpphs-1.20.3
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0 directory-1.3.0.0 old-locale-1.0.0.7
+              old-time-1.1.0.3 polyparse-1.12 base-4.9.1.0 directory-1.3.0.0
+              old-locale-1.0.0.7 old-time-1.1.0.3 polyparse-1.12
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: extra-1.5.1
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0 clock-0.7.2 directory-1.3.0.0
+              filepath-1.4.1.1 process-1.4.3.0 time-1.6.0.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hashable-1.2.5.0
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: -sse41 sse2 integer-gmp -examples
+dependencies: base-4.9.1.0 bytestring-0.10.8.1 ghc-prim-0.5.0.0
+              integer-gmp-1.0.0.1 text-1.2.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: haskell-src-exts-1.19.1
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: array-0.5.1.1 base-4.9.1.0 cpphs-1.20.3
+              ghc-prim-0.5.0.0 pretty-1.1.3.3
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: hlint-1.9.40
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: threaded gpl
+dependencies: ansi-terminal-0.6.2.3 base-4.9.1.0 cmdargs-0.10.14
+              containers-0.5.7.1 cpphs-1.20.3 directory-1.3.0.0 extra-1.5.1
+              filepath-1.4.1.1 haskell-src-exts-1.19.1 hscolour-1.24.1
+              process-1.4.3.0 refact-0.3.0.2 transformers-0.5.2.0 uniplate-1.6.12
+              base-4.9.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: old-locale-1.0.0.7
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: old-time-1.1.0.3
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0 old-locale-1.0.0.7
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: polyparse-1.12
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0 bytestring-0.10.8.1 text-1.2.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: refact-0.3.0.2
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: syb-0.6
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: text-1.2.2.1
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: -integer-simple -developer
+dependencies: array-0.5.1.1 base-4.9.1.0 binary-0.8.3.0
+              bytestring-0.10.8.1 deepseq-1.4.2.0 ghc-prim-0.5.0.0
+              integer-gmp-1.0.0.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: uniplate-1.6.12
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: typeable_fingerprint separate_syb
+dependencies: base-4.9.1.0 containers-0.5.7.1 hashable-1.2.5.0
+              syb-0.6 unordered-containers-0.2.7.2
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: unordered-containers-0.2.7.2
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: -debug
+dependencies: base-4.9.1.0 deepseq-1.4.2.0 hashable-1.2.5.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: happy-1.19.5
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+flags: small_base
+dependencies: array-0.5.1.1 base-4.9.1.0 containers-0.5.7.1
+              mtl-2.2.1
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
+
+package: mtl-2.2.1
+os: windows
+arch: x86_64
+compiler: ghc-8.0.2
+client: cabal-install-1.24.0.2
+dependencies: base-4.9.1.0 transformers-0.5.2.0
+install-outcome: InstallOk
+docs-outcome: NotTried
+tests-outcome: NotTried
